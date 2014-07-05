@@ -14,12 +14,12 @@
    ========================================================================== */
 
 h1, h2, h3, h4, h5, h6, p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 h1 {
   font-weight: 800;
-  font-size: 62px;
+  font-size: 42px;
   line-height: 60px;
   text-transform: uppercase;
   color: #FFFFFF;
@@ -40,7 +40,7 @@ h3 {
   font-weight: 300;
   letter-spacing: -1px;
   line-height: 34px;
-  color: #626c72;
+  color: #336695;
 }
 
 h4 {
@@ -56,7 +56,7 @@ p {
 }
 
 p.lead {
-  color: #ff755a;
+  color: #336695;
 }
 
 a {
@@ -65,12 +65,12 @@ a {
 
 a:hover {
   transition: all 0.35s ease-in-out;
-  color: #626c72;
+  color: #FF0016;
   text-decoration: none;
 }
 
 .btn-main {
-	  background: #ff755a repeat scroll 0 0;
+	  background: #336695 repeat scroll 0 0;
     border: none;
     font-weight: 800;
     border-radius: 2px;
@@ -84,7 +84,7 @@ a:hover {
 }
 
 .btn-main:hover {
-	background: #dc644b repeat scroll 0 0;
+	background: #FF0016 repeat scroll 0 0;
 	color: #FFFFFF;
 	text-decoration: none;
 	transition: all 0.35s ease-in-out;
@@ -191,9 +191,9 @@ a:hover {
    ========================================================================== */
 
 .navbar-inverse .navbar-inner {
-  background: #ff755a;
+  background: #FFF;
   background-repeat: repeat-x;
-  border-color: #ff755a;
+  border-color: #FF0016;
   filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff755a', endColorstr='#ff755a', GradientType=0)
 }
 
@@ -205,7 +205,7 @@ a:hover {
 
 .navbar-inverse .brand, .navbar-inverse .nav > li > a {
   color: #FFFFFF;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
   text-shadow: 0 0px 0 rgba(0, 0, 0, 0.0);
   font-weight: 700;
   text-transform: uppercase;
@@ -222,7 +222,7 @@ a:hover {
 }
 
 .navbar .nav > li > a {
-  color: #FFFFFF;
+  color: #336695;
   float: none;
   padding: 35px 16px;
   text-decoration: none;
@@ -231,7 +231,7 @@ a:hover {
 }
 
 .navbar .nav > li > a:hover {
-  color: rgba(49,54,58,0.9);
+  color: rgba(255,0,25,0.9);
 }
 
 .navbar-inverse .nav li.dropdown > .dropdown-toggle .caret {
@@ -373,17 +373,17 @@ a:hover {
 
 
 .one {
-  background: url(../img/header1.jpg) no-repeat center center;
+  background: url(test_slide.jpg) no-repeat center center;
   background-size: cover;
 }
 
 .two {
-  background: url(../img/header2.jpg) no-repeat center center;
+  background: url(header2.jpg) no-repeat center center;
   background-size: cover;
 }
 
 .three {
-  background: url(../img/header3.jpg) no-repeat center center;
+  background: url(img/header3.jpg) no-repeat center center;
   background-size: cover;
 }
 
