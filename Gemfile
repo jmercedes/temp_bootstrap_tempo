@@ -5,9 +5,14 @@ gem 'rails', '3.2.15'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-group :development, :test, :production do
+group :development, :test do
   gem 'pg'
 end
+
+group :production do
+  gem 'pg'
+end
+
 
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
