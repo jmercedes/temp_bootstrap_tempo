@@ -1,10 +1,16 @@
 ---
 aniversario_slide.jpg: aniversario_slide-3fb54da29d4f818bd3addd93943061a1.jpg
 aniversario_slide/index.jpg: aniversario_slide-3fb54da29d4f818bd3addd93943061a1.jpg
+baby.jpg: baby-2ecf23a686851b69a0d9c01c6bbec39f.jpg
+baby/index.jpg: baby-2ecf23a686851b69a0d9c01c6bbec39f.jpg
 bg_direction_nav.png: bg_direction_nav-3c36224a76ddbcac2e36b643832074cf.png
 bg_direction_nav/index.png: bg_direction_nav-3c36224a76ddbcac2e36b643832074cf.png
+bike.jpg: bike-bcd810fb3be4f1a83517928d409f786a.jpg
+bike/index.jpg: bike-bcd810fb3be4f1a83517928d409f786a.jpg
 bioscan.jpg: bioscan-7d47df0009306082332a1fdc995c95b9.jpg
 bioscan/index.jpg: bioscan-7d47df0009306082332a1fdc995c95b9.jpg
+doctor_sample.jpg: doctor_sample-d67bee181012e17b53b3005cef861cec.jpg
+doctor_sample/index.jpg: doctor_sample-d67bee181012e17b53b3005cef861cec.jpg
 fisioterapia.jpg: fisioterapia-0255da8655c1669fd909d8f54e4fc48b.jpg
 fisioterapia/index.jpg: fisioterapia-0255da8655c1669fd909d8f54e4fc48b.jpg
 glyphicons-halflings-white.png: glyphicons-halflings-white-6cccd17a7aed91dbc0157d343c68c0d9.png
@@ -63,8 +69,8 @@ vacantes_disponibles.jpg: vacantes_disponibles-d28315c651297d37654ff43c47f8358f.
 vacantes_disponibles/index.jpg: vacantes_disponibles-d28315c651297d37654ff43c47f8358f.jpg
 application.js: application-9f33bf9fecdbe59c01240c4bb4b1732e.js
 application/index.js: application-9f33bf9fecdbe59c01240c4bb4b1732e.js
-application.css: application-4fd092f67e00f201eeb63e9104e410b1.css
-application/index.css: application-4fd092f67e00f201eeb63e9104e410b1.css
+application.css: application-b9e452645172a7733e8625eaaae3b036.css
+application/index.css: application-b9e452645172a7733e8625eaaae3b036.css
 favicon.ico: favicon-acec7f735fa1a67eaf836a34ad4e9bd3.ico
 favicon/index.ico: favicon-acec7f735fa1a67eaf836a34ad4e9bd3.ico
 refinery/add.png: refinery/add-31e0c9c76c23e5a0d5146a7bf7a3381f.png
